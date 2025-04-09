@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj": {}
+    "C:\\Users\\mmaks\\source\\repos\\Duma107\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj": {
+    "C:\\Users\\mmaks\\source\\repos\\Duma107\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\mmaks\\source\\repos\\Duma107\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj",
         "projectName": "MyFirstCSharpApp",
-        "projectPath": "C:\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj",
-        "packagesPath": "C:\\Users\\Dumisani\\.nuget\\packages\\",
-        "outputPath": "C:\\MyFirstCSharpApp\\obj\\",
+        "projectPath": "C:\\Users\\mmaks\\source\\repos\\Duma107\\MyFirstCSharpApp\\MyFirstCSharpApp.csproj",
+        "packagesPath": "C:\\Users\\mmaks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmaks\\source\\repos\\Duma107\\MyFirstCSharpApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dumisani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mmaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
