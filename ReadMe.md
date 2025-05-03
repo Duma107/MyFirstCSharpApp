@@ -1,6 +1,6 @@
 # MyFirstCSharpApp
 
-A simple C# console application that demonstrates basic user input and output operations.
+This is a simple C# console application to demonstrate basic programming concepts.
 
 ## Description
 
@@ -8,8 +8,9 @@ MyFirstCSharpApp is a beginner-friendly console application built with C# and .N
 
 ## Features
 
-- Displays welcome message
-- Accepts user input (name)
+- Greets the user.
+- Asks for the user's name and age.
+- Calculates the user's birth year.
 - Provides null-safe handling with the null-coalescing operator
 - Demonstrates string interpolation
 
@@ -35,8 +36,7 @@ MyFirstCSharpApp is a beginner-friendly console application built with C# and .N
 
 Build and run the application using the .NET CLI:
 
-```
-dotnet build
+```bash
 dotnet run
 ```
 
@@ -54,6 +54,11 @@ The application:
 2. Prompts the user to enter their name
 3. Reads the user's input, defaulting to "Friend" if null
 4. Outputs a personalized greeting using string interpolation
+
+## Screenshots
+![Screenshot 1](Screenshots/Screenshot%202025-04-09%20111345.png)
+![Screenshot 2](Screenshots/Screenshot%202025-04-09%20171830.png)
+![Screenshot 3](Screenshots/Screenshot%202025-04-09%20205649.png)
 
 ## Collaboration Request
 
@@ -74,7 +79,7 @@ The application:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
